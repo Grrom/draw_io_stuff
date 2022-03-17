@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T20:43:56.670Z" agent="5.0 (X11)" etag="QiEt-clWe42TQKEZ4e0T" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T20:55:39.058Z" agent="5.0 (X11)" etag="yjUGeWIdNqFs9PXC8y8k" version="17.1.2" type="github">
   <diagram id="4298mYg3H4oYZl29SIsW" name="Page-1">
     <mxGraphModel dx="1754" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="200" math="0" shadow="0">
       <root>
@@ -31,9 +31,6 @@
         <mxCell id="zabz1mXTkWRpj1-cXN2R-10" value="Virtual Machine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zabz1mXTkWRpj1-cXN2R-11" value="Hosted Virtualization (type 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="zabz1mXTkWRpj1-cXN2R-12" value="Hardware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="280" width="320" height="60" as="geometry" />
         </mxCell>
@@ -58,8 +55,11 @@
         <mxCell id="zabz1mXTkWRpj1-cXN2R-20" value="Virtual Machine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="180" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zabz1mXTkWRpj1-cXN2R-21" value="Bare-Metal Virtualization (type 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="360" width="180" height="30" as="geometry" />
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-22" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Bare-Metal Virtualization &lt;font style=&quot;font-size: 16px&quot;&gt;(type 1)&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;	&lt;/span&gt;In this is a type of virtualization, the virtualization hypervisor is directly installed and executed from the hardware. It eliminates the need for a host operating system by directly interfacing with the underlying hardware to accomplish&amp;nbsp; virtual machine specific processes. &lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-362" y="380" width="324" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-23" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Hosted Virtualization&lt;/font&gt; &lt;font style=&quot;font-size: 16px&quot;&gt;(type 2)&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	In this type of virtualization&lt;/span&gt;, the system installs the Operating System before installing a hypervisor, The hypervisor would then operate the same as a bare-metal hypervisor, it discovers and virtualizes resources and then provisions those virtualized resources to create Virtual machines.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="370" width="327" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
