@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T20:33:25.998Z" agent="5.0 (X11)" version="17.1.2" etag="RKQXGNDkRL_dywcmrnP1" type="github"><diagram id="4298mYg3H4oYZl29SIsW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-17T20:36:37.425Z" agent="5.0 (X11)" etag="y123VYc33l_LNV0LQPfM" version="17.1.2" type="github">
+  <diagram id="4298mYg3H4oYZl29SIsW" name="Page-1">
+    <mxGraphModel dx="569" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-1" value="Hardware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-2" value="Host operating system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-3" value="Hypervisor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-4" value="Guest OS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-5" value="Guest OS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-7" value="User Applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zabz1mXTkWRpj1-cXN2R-8" value="User Applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
