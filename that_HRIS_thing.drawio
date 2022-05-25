@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T06:35:38.289Z" agent="5.0 (X11)" etag="6gcNdCT6rgk1gTrkhXEO" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T06:36:33.236Z" agent="5.0 (X11)" etag="IO0oP6ndRbt49yZSfVZn" version="18.1.2" type="github">
   <diagram id="KHhg7IiPmLpWUpVYHb9x" name="Page-1">
     <mxGraphModel dx="1673" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="200" math="0" shadow="0">
       <root>
@@ -115,6 +115,12 @@
             <mxPoint x="660.0588235294117" y="130" as="sourcePoint" />
             <mxPoint x="769.9411764705883" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QVqDBM_UYHWOgr-D1qs_-50" value="Not Qualified" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVqDBM_UYHWOgr-D1qs_-51" value="Qualified" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
