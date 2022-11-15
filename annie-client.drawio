@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T09:30:15.738Z" agent="5.0 (X11)" etag="Khs9xWDA9vtx4DwIvSMh" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T09:32:17.329Z" agent="5.0 (X11)" etag="en_ARrBukHWaj1smKpc0" version="20.5.0" type="github">
   <diagram id="M2FlMD3nGxHvHR8v5HWW" name="Page-1">
     <mxGraphModel dx="1354" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1691,19 +1691,31 @@
           <mxGeometry x="560" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-53" value="account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-54" value="sauce finder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="296" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-55" value="calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-56" value="recommendations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="748" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-57" value="quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="932.5" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-58" value="Profile picture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-59" value="Name and bio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-60" value="Quiz Scores and rankings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-61" value="Discord and MyAnimeList Integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
