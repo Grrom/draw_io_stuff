@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T09:46:20.032Z" agent="5.0 (X11)" etag="srTUmlr-MQM_EJ5eN330" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T09:47:13.045Z" agent="5.0 (X11)" etag="uwWC2OOhkwaPeTVKWpZ_" version="20.5.0" type="github">
   <diagram id="M2FlMD3nGxHvHR8v5HWW" name="Page-1">
     <mxGraphModel dx="1354" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1749,6 +1749,15 @@
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-73" value="update animelist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="882" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-74" value="hiragana quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-75" value="katakana quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-76" value="kanji quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
