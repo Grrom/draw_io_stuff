@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T09:51:53.140Z" agent="5.0 (X11)" etag="fn9QSBKIO5YHzvU5QCBN" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T09:54:21.342Z" agent="5.0 (X11)" etag="dJCi0LMjZ51clX6amgRG" version="20.5.0" type="github">
   <diagram id="M2FlMD3nGxHvHR8v5HWW" name="Page-1">
-    <mxGraphModel dx="1663" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1706,58 +1706,58 @@
           <mxGeometry x="1080" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-58" value="Profile picture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-59" value="Name and bio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-60" value="Quiz Scores and rankings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-61" value="Discord and MyAnimeList Integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="2100" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-62" value="search via screenshot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-63" value="search via link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1900" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-65" value="Month View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-66" value="Week view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-63" value="search via link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-67" value="Release Schedules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="2000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-68" value="View Schedules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="2100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-69" value="show information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="618" y="2200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-70" value="get recommendations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-65" value="Month View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="882.5" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-71" value="update animelist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="2300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d61cy0ZIuKxo0eGcfZPc-72" value="show information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-66" value="Week view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="882.5" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-67" value="Release Schedules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-68" value="View Schedules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-69" value="show information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880.5" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-70" value="get recommendations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140.5" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-71" value="update animelist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-72" value="show information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140.5" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-73" value="update animelist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="882" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-74" value="hiragana quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-75" value="katakana quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-76" value="kanji quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d61cy0ZIuKxo0eGcfZPc-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1806,6 +1806,9 @@
             <mxPoint x="-180.29000000000002" y="1650" as="sourcePoint" />
             <mxPoint x="-180.29000000000002" y="1700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d61cy0ZIuKxo0eGcfZPc-93" value="Forgot Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
