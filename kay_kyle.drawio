@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T03:47:30.627Z" agent="5.0 (X11)" etag="teNhELXlG7efNvh7Nkmd" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T03:49:58.506Z" agent="5.0 (X11)" etag="OGOelkGxKUqTV5gA9OSR" version="20.5.3" type="github">
   <diagram id="DdFkb1q0ximn8g-mRU3F" name="Page-1">
-    <mxGraphModel dx="1579" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2628" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,42 @@
         </mxCell>
         <mxCell id="ko2sCoa1ENeEitmVXedh-125" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;update status&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="1005" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-131" value="title" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="900" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-132" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="900" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-133" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="910" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-134" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="920" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-135" value="name&lt;br&gt;violation&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="890" y="990" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-136" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="890" y="990" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-137" value="search" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="885" y="950" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-138" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="950" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-139" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;update status&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1005" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-140" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;statuses:&lt;br&gt;clean&lt;br&gt;un-clean&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="870" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-141" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;statuses:&lt;br&gt;done&lt;br&gt;upcoming&lt;br&gt;cancelled&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="860" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-142" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;statuses:&lt;br&gt;resolved&lt;br&gt;unresolved&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="870" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
