@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T03:44:39.901Z" agent="5.0 (X11)" etag="UkwsUpeq8wI5aqluUR5A" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T03:47:30.627Z" agent="5.0 (X11)" etag="teNhELXlG7efNvh7Nkmd" version="20.5.3" type="github">
   <diagram id="DdFkb1q0ximn8g-mRU3F" name="Page-1">
-    <mxGraphModel dx="2347" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,6 +229,21 @@
         </mxCell>
         <mxCell id="ko2sCoa1ENeEitmVXedh-117" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;note&lt;br&gt;every week nagiging un-clean yung areas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="200" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-121" value="area name&lt;br&gt;date" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="990" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-122" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="990" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-123" value="search" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="465" y="950" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-124" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="950" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-125" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;update status&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1005" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
