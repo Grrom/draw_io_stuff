@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T03:21:25.663Z" agent="5.0 (X11)" etag="pGbAx4nNCmuZRePV8hCY" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T03:24:13.224Z" agent="5.0 (X11)" etag="TumzWjtEvaet0z7hjcnm" version="20.5.3" type="github">
   <diagram id="DdFkb1q0ximn8g-mRU3F" name="Page-1">
-    <mxGraphModel dx="2347" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,6 +168,21 @@
         </mxCell>
         <mxCell id="ko2sCoa1ENeEitmVXedh-83" value="position" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="340" y="205" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-84" value="&lt;div&gt;name&lt;br&gt;age&lt;/div&gt;&lt;div&gt;adress&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="990" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="990" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-86" value="search" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="950" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-88" value="title" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="900" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ko2sCoa1ENeEitmVXedh-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="950" width="25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
