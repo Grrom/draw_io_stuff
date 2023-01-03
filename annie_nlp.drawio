@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T06:02:38.998Z" agent="5.0 (X11)" etag="VhgWu5loluivI7I1Mf-r" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T06:03:10.693Z" agent="5.0 (X11)" etag="sWZnk422ScJK3_7WjlRo" version="20.5.3" type="github">
   <diagram id="AATlev8B3ye8RbhryOrD" name="Page-1">
     <mxGraphModel dx="2272" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="UxXAKfBfFaziU6dD_f_P-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxXAKfBfFaziU6dD_f_P-47" target="UxXAKfBfFaziU6dD_f_P-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UxXAKfBfFaziU6dD_f_P-47" value="calculate scores based on pre-defined keywords for each intention." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UxXAKfBfFaziU6dD_f_P-47" value="calculate scores based on pre-defined stemmed words from phrases for each intention." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="320" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxXAKfBfFaziU6dD_f_P-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxXAKfBfFaziU6dD_f_P-55" target="UxXAKfBfFaziU6dD_f_P-57">
