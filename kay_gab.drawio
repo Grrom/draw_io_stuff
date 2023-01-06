@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T02:39:55.332Z" agent="5.0 (X11)" etag="0RgD9FmANBDhtS0oGoMM" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T02:40:17.088Z" agent="5.0 (X11)" etag="8jws5zeq0Mp1Mfb7Px87" version="20.5.3" type="github">
   <diagram id="D-xlwJKUBUGdmB2acXy5" name="Page-1">
     <mxGraphModel dx="1866" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -323,6 +323,33 @@
         </mxCell>
         <mxCell id="X7l30n8DzPeqaY1r7qdO-114" value="book" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-60" y="236.25" width="50" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-120" value="name&lt;br&gt;price" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="290" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-121" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="290" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-122" value="book" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="306.25" width="50" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-123" value="name&lt;br&gt;price" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-124" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="360" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-125" value="book" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="376.25" width="50" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-126" value="name&lt;br&gt;price" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="430" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-127" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="430" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-128" value="book" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="446.25" width="50" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
