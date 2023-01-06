@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T02:48:53.386Z" agent="5.0 (X11)" etag="1GvMdvxuHh9Sa_LLm4Eo" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T02:49:21.092Z" agent="5.0 (X11)" etag="RIq9MUOVUD_3hBmRcvcr" version="20.5.3" type="github">
   <diagram id="D-xlwJKUBUGdmB2acXy5" name="Page-1">
-    <mxGraphModel dx="3038" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1903" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
         <mxCell id="X7l30n8DzPeqaY1r7qdO-110" value="&lt;div&gt;name&lt;br&gt;age&lt;/div&gt;&lt;div&gt;adress&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="850" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X7l30n8DzPeqaY1r7qdO-111" value="Violations:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-111" value="details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-205" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X7l30n8DzPeqaY1r7qdO-112" value="name&lt;br&gt;price" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
