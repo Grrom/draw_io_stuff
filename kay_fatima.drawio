@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T03:07:53.381Z" agent="5.0 (X11)" etag="qFA0tF2gw2yShxbZZocr" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T03:08:39.033Z" agent="5.0 (X11)" etag="drxW2xdG_S0AthTP7cm4" version="20.5.3" type="github">
   <diagram id="MdNPJtfJ6tt3xr-JiONw" name="Page-1">
-    <mxGraphModel dx="3731" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2513" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
         <mxCell id="9QVJno16Qjs4szpw7Lwq-48" value="position" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="340" y="205" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="9QVJno16Qjs4szpw7Lwq-49" value="&lt;div&gt;name&lt;br&gt;age&lt;/div&gt;&lt;div&gt;adress&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="9QVJno16Qjs4szpw7Lwq-49" value="&lt;div&gt;name&lt;br&gt;age&lt;/div&gt;&lt;div&gt;course and section&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="-350" y="990" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9QVJno16Qjs4szpw7Lwq-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
