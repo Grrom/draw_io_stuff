@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T02:45:12.935Z" agent="5.0 (X11)" etag="q_oDPjjq_HMa3gKxEJ52" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T02:45:45.864Z" agent="5.0 (X11)" etag="zrB_WlOfNQ0mBko17zOg" version="20.5.3" type="github">
   <diagram id="D-xlwJKUBUGdmB2acXy5" name="Page-1">
     <mxGraphModel dx="1988" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -302,8 +302,8 @@
         <mxCell id="X7l30n8DzPeqaY1r7qdO-144" value="&lt;div&gt;name&lt;br&gt;price&lt;br&gt;&lt;/div&gt;&lt;div&gt;check in time&lt;br&gt;check out time&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1480" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X7l30n8DzPeqaY1r7qdO-145" value="Violations:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="1590" width="60" height="30" as="geometry" />
+        <mxCell id="X7l30n8DzPeqaY1r7qdO-147" value="confirm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-327.5" y="1740" width="175" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
