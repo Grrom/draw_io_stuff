@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T02:40:24.006Z" agent="5.0 (X11)" etag="y-emJBiZJx7U25p1_dWM" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T02:40:28.750Z" agent="5.0 (X11)" etag="_F4qYXm3h6dDukXUFL_8" version="20.5.3" type="github">
   <diagram id="D-xlwJKUBUGdmB2acXy5" name="Page-1">
-    <mxGraphModel dx="2881" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,12 +125,6 @@
         </mxCell>
         <mxCell id="X7l30n8DzPeqaY1r7qdO-47" value="bookings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X7l30n8DzPeqaY1r7qdO-48" value="activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X7l30n8DzPeqaY1r7qdO-49" value="reports" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="400" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X7l30n8DzPeqaY1r7qdO-50" value="app name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="340" y="195" width="30" height="10" as="geometry" />
